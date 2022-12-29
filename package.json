@@ -1,0 +1,19 @@
+{
+  "name": "fk-actions",
+  "version": "0.0.1",
+  "description": "functional library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oats7777/fk-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oats7777/fk-actions/issues"
+  },
+  "homepage": "https://github.com/oats7777/fk-actions#readme"
+}
